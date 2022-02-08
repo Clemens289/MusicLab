@@ -1,2 +1,2 @@
 # MusicLab
-Music Instrument Java Script Project
+Music Instrument Java Script Project and bootstrap
